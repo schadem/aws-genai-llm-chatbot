@@ -1,6 +1,6 @@
 # Deploying a Multi-LLM and Multi-RAG Powered Chatbot Using AWS CDK on AWS
 
-![sample](assets/sample.gif "AWS GenAI Chatbot")
+![sample](assets/chabot-sample.gif "AWS GenAI Chatbot")
 
 
 ## Modular, comprehensive and ready to use
