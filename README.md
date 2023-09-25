@@ -19,6 +19,11 @@ Supported models providers:
 
 ![sample](assets/create-workspace-sample.gif "AWS GenAI Chatbot")
 
+### Unlock RAG potentianls with Workspaces Debugging
+
+![sample](assets/workspace-debug-sample.gif "AWS GenAI Chatbot")
+
+
 
 ## Full-fledged User Interface
 The repository includes a CDK construct to deploy  a **full-fledged UI** built with [React](https://react.dev/) to interact with the deployed LLMs as chatbots. Hosted on [Amazon S3](https://aws.amazon.com/s3/) and distributed with [Amazon CloudFront](https://aws.amazon.com/cloudfront/). Protected with [Amazon Cognito Authentication](https://aws.amazon.com/cognito/) to help you interact and experiment with multiple LLMs, multiple RAG sources, conversational history support and documents upload.
