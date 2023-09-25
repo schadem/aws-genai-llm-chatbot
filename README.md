@@ -24,7 +24,7 @@ Supported models providers:
 ## Experiment multiple RAG options with Workspaces
 ![sample](assets/create-workspace-sample.gif "AWS GenAI Chatbot")
 
-## Unlock RAG potentianls with Workspaces Debugging Tools
+## Unlock RAG potentials with Workspaces Debugging Tools
 ![sample](assets/workspace-debug-sample.gif "AWS GenAI Chatbot")
 
 
