@@ -8,7 +8,7 @@
 ## Table of content
 - [Features](#features)
 - [Precautions](#precautions)
-- [Preview Access and Service Quotas](#service-quotas-and-preview-access)
+- [Preview Access and Service Quotas](#preview-access-and-service-quotas)
 - [Deploy](#deploy)
 
 # Features
