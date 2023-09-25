@@ -13,8 +13,5 @@ Supported models providers:
 
 
 ## Experiment multiple RAG options with Workspaces
-This sample provides comes with CDK constructs to allow you to optionally deploy one or more of:
 
-- [Amazon Aurora Serverless with pgvector](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-pgvector-vector-storage-similarity-search/)
-- [Amazon OpenSearch VectorSearch](https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/)
-- [Amazon Kendra](https://aws.amazon.com/kendra/)
+WIP
